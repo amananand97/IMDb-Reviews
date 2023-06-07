@@ -1,5 +1,7 @@
 # IMDb Reviews
 
+Developed a machine learning model to preprocess a raw dataset, clean the text data, and extract unique reviews. Implemented Naive Bayes algorithm to analyze positive and negative reviews for sentiment analysis. Achieved an accuracy score of 85.62% for sentiment classification. Demonstrated proficiency in data preprocessing, feature extraction, and classification algorithms.
+
 ### Step 1 : import all the following from the list
 
 		- import re
